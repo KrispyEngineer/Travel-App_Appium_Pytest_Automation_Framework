@@ -1,0 +1,6 @@
+[32mINFO    [0m <module>:BasePage.py:21 Clicking on an elementbuses_XPATH
+[32mINFO    [0m <module>:BasePage.py:21 Clicking on an elementclick_from_XPATH
+[32mINFO    [0m <module>:BasePage.py:30 Typing in an elemententer_from_city_XPATHEntered the Value as: Pune
+[32mINFO    [0m <module>:BasePage.py:21 Clicking on an elementselect_from_city_XPATH
+[32mINFO    [0m <module>:BasePage.py:21 Clicking on an elementdestination_XPATH
+[32mINFO    [0m <module>:BasePage.py:30 Typing in an elemententer_to_city_XPATHEntered the Value as: Mumbai

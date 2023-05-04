@@ -1,0 +1,11 @@
+INFO     <module>:BasePage.py:21 Clicking on an elementbuses_XPATH
+INFO     <module>:BasePage.py:21 Clicking on an elementclick_from_XPATH
+INFO     <module>:BasePage.py:30 Typing in an elemententer_from_city_XPATHEntered the Value as: Pune
+INFO     <module>:BasePage.py:21 Clicking on an elementselect_from_city_XPATH
+INFO     <module>:BasePage.py:21 Clicking on an elementdestination_XPATH
+INFO     <module>:BasePage.py:30 Typing in an elemententer_to_city_XPATHEntered the Value as: Mumbai
+INFO     <module>:BasePage.py:21 Clicking on an elementselect_to_city_XPATH
+INFO     <module>:BasePage.py:21 Clicking on an elementselect_date_XPATH
+INFO     <module>:BasePage.py:21 Clicking on an elementsearch_button_XPATH
+INFO     <module>:BasePage.py:21 Clicking on an elementprimo_bus_XPATH
+INFO     <module>:BasePage.py:39 Getting text from an elementverify_text_XPATH

@@ -1,0 +1,6 @@
+INFO     <module>:BasePage.py:21 Clicking on an elementhotels_ID
+INFO     <module>:BasePage.py:21 Clicking on an elementsearch_box_ID
+INFO     <module>:BasePage.py:30 Typing in an elementsearch_text_IDEntered the Value as: ['Delhi']
+INFO     <module>:BasePage.py:21 Clicking on an elementselect_destination_ID
+INFO     <module>:BasePage.py:21 Clicking on an elementhome_search_button_XPATH
+INFO     <module>:BasePage.py:21 Clicking on an elementpop_up_ID

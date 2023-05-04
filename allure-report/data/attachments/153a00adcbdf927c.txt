@@ -1,0 +1,6 @@
+[32mINFO    [0m <module>:BasePage.py:21 Clicking on an elementhotels_ID
+[32mINFO    [0m <module>:BasePage.py:21 Clicking on an elementsearch_box_ID
+[32mINFO    [0m <module>:BasePage.py:30 Typing in an elementsearch_text_IDEntered the Value as: ['Delhi']
+[32mINFO    [0m <module>:BasePage.py:21 Clicking on an elementselect_destination_ID
+[32mINFO    [0m <module>:BasePage.py:21 Clicking on an elementhome_search_button_XPATH
+[32mINFO    [0m <module>:BasePage.py:21 Clicking on an elementpop_up_ID
