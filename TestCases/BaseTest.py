@@ -1,5 +1,5 @@
 import pytest
-import pytest_rerunfailures
+
 
 @pytest.mark.flaky(reruns=5)
 @pytest.mark.usefixtures('setup_function','log_on_failure')
